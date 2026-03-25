@@ -33,11 +33,13 @@ Please download the following datasets:
 
 ## Train
 
-Firstly, download CVOGL and rename it to 'data', i.e., 'data/CVOGL_DroneAerial' and 'data/CVOGL_SVI'.
-Secondly, download the pretrained Yolov3 model and place it in the 'saved_models' directory, i.e.,
+1. Firstly, download CVOGL and rename it to 'data', i.e., 'data/CVOGL_DroneAerial' and 'data/CVOGL_SVI'.
+
+2. Secondly, download the pretrained Yolov3 model and place it in the 'saved_models' directory, i.e.,
 
    ['./saved_models/yolov3.weights'](https://pan.baidu.com/s/1As2Z0e8hD2PLimplLdsReg)(code: iu7g).
-Thirdly, execute 'scripts/train_all.sh', 'scripts/train_drone.sh', or 'scripts/train_ground.sh' to train the models.
+
+3. Thirdly, execute 'scripts/train_all.sh', 'scripts/train_drone.sh', or 'scripts/train_ground.sh' to train the models.
 
 ```
 sh scripts/train_all.sh
