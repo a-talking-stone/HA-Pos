@@ -8,7 +8,7 @@ With the rapid proliferation of Location-Based Services (LBS), achieving high-pr
 
 ## Updates
 
-[25 Mar. 2026]This paper is now available online via *IEEE Transactions on Consumer Electronics (TCE) Early Access*, DOI/Link: [Early Access](https://ieeexplore.ieee.org/document/11450442)
+[25 Mar. 2026]This paper is now available online via *IEEE Transactions on Consumer Electronics (TCE) [Early Access](https://ieeexplore.ieee.org/document/11450442)*.
 
 ## Dataset
 
@@ -53,7 +53,7 @@ sh test_all.sh
 
 ## Related Projects
 
-[DetGeo](https://ieeexplore.ieee.org/document/10226220) (An improved version of the HA-Pos, accepted to IEEE TGRS 2023)
+[DetGeo](https://ieeexplore.ieee.org/document/10226220) (The baseline method improved by HA-Pos, accepted to IEEE TGRS 2023)
 
 ## Citation
 
