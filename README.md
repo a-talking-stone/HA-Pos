@@ -1,6 +1,7 @@
 # HA-Pos
 
 ### Hierarchical Prompt-Guided Adaptive Detection for Cross-view Visual Positioning System
+![architecture](architecture.jpg)
 
 ## Abstract
 
